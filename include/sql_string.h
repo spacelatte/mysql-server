@@ -37,6 +37,7 @@
 #include <new>
 #include <string>
 #include <string_view>
+#include <limits>
 
 #include "lex_string.h"
 #include "m_ctype.h"   // my_convert
